@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Lucas01010101/Lucas01010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lucas, 21 anos.
 
-Here are some ideas to get you started:
+Formação Técnica em Eletrônica ⚡ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudande de Análise e Desenvolvimento de Sistemas 👾
+
+Atualmente trabalho em uma empresa de automação residencial, em constante contato com novas tecnologias.🥰
+
+Iniciante na área de programação, tenho sede de aprender, amo a área e ainda serei muito bom 😎.
+
+<div>
+  <a href="https://www.youtube.com/watch?v=7YvAYIJSSZY&ab_channel=RockwellVEVO">
